@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Hackmty\ControlGameObject.cs">
+    <Files>
+      <File FileName="Assets\Hackmty\Obstaculo.cs" Line="26" Column="38" />
+      <File FileName="Assets\Hackmty\Obstaculizador.cs" Line="40" Column="80" />
+      <File FileName="Assets\Hackmty\Puntuacion.cs" Line="13" Column="3" />
+      <File FileName="Assets\Hackmty\Arabes.cs" Line="39" Column="28" />
+      <File FileName="Assets\Plugins\Resources\Scripts\UpdateValues.cs" Line="75" Column="27" />
+      <File FileName="Assets\Hackmty\ControlGameObject.cs" Line="11" Column="79" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
